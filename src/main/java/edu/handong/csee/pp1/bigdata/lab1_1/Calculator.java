@@ -115,12 +115,8 @@ public class Calculator {
 		// TODO implement the body of this method
 		return 0;
 	}
-
+	
 	static int getCount() {
 		return countForAnyCompution;
-	}
-
-	int getLocalCount() {
-		return localCount;
 	}
 }
