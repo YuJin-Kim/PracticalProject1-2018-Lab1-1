@@ -121,4 +121,8 @@ public class Calculator {
 	static int getCount() {
 		return countForAnyCompution;
 	}
+	
+	int getLocalCount() {
+		return localCount;
+	}
 }
